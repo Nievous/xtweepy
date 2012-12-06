@@ -1,2 +1,2 @@
-include README.txt
+include README.txt README.md LICENSE
 recursive-include xtweepy *.py

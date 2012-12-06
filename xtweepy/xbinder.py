@@ -1,5 +1,5 @@
 # -*- coding=utf-8 -*-
-# Based on
+# Mod by Daniel M. S. Based on
 # Tweepy
 # Copyright 2009-2010 Joshua Roesslein
 # See LICENSE for details.

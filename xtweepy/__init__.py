@@ -1,5 +1,5 @@
 # -*- coding=utf-8 -*-
-# Based on:
+# Mod by Daniel M. S. Based on
 # Tweepy
 # Copyright 2009-2010 Joshua Roesslein
 # See LICENSE for details.
@@ -7,7 +7,7 @@
 Tweepy Twitter API library
 """
 __version__ = '1.12'
-__author__ = 'Joshua Roesslein (mod by Daniel M. S.)'
+__author__ = 'Daniel M. S. (original by Joshua Roesslein)'
 __license__ = 'MIT'
 
 import sys

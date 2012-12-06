@@ -26,7 +26,7 @@ setup(
     description = ('tweepy based library with 1.1 search api support'),
     license = 'MIT',
     keywords = 'twitter library',
-    url = 'http://www.example.com',
+    url = 'https://github.com/Nievous',
     packages=['xtweepy'],
     install_requires = ['simplejson', 'tweepy'],
     long_description=read('README.txt'),
@@ -34,7 +34,7 @@ setup(
     classifiers=[
         'Development Status :: 4 - Beta',
         'Topic :: Software Development',
-        'License :: custom',
+        'License :: MIT',
         'Operating System :: POSIX :: Linux',
         'Programming Language :: Python',
     ],
