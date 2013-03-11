@@ -1,20 +1,21 @@
 *.py[co]
 
+#analitic folders
+fonts
+batik
+Classes
+GeoIP
+libreriasPHP
+logs
+nuevo
+pdf
+phpMailer
+phpsysinfo
+
 # Packages
 *.egg
 *.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
 
-# Installer logs
-pip-log.txt
 
 # Unit test / coverage reports
 .coverage
@@ -25,3 +26,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
