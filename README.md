@@ -1,3 +1,5 @@
+(No es compatible con la última versión de tweepy)
+
 Extensión de tweepy para realizar búsquedas usando la api 1.1 de twitter.
 
 Adicionalmente el resultado también entrega los headers (útil para revisar el límite actual de consultas).
